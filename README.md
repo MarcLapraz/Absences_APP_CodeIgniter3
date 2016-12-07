@@ -1,4 +1,4 @@
-# Absences_APP_CodeIgniter3 CRUD
+# CRUD Absences Application CodeIgniter3
 CodeIgniter3 w/Bootstrap + JS (dependant list from DB &amp; more...)
 
 --Interesting things--
