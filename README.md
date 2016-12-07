@@ -12,3 +12,6 @@ back :
 --- Many-to-Many Relationships
 --- One-to-One Relationships
 
+
+Configure your database connection in :  application/system/database.php
+
