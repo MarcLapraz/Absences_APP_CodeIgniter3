@@ -3,15 +3,20 @@ CodeIgniter3 w/Bootstrap + JS (dependant list from DB &amp; more...)
 
 --Interesting things--
 
-front : 
+front-end : 
 --- MVC Pattern 
---- 2 or more dependent Drop-down Lists from database with Ajax 
+--- 2 or more dependent Drop-down lists (from database) with Ajax (f. ex -> application/views/fichesView.php)
 
-back : 
+back-end : 
 --- One-to-Many Relationship
 --- Many-to-Many Relationships
 --- One-to-One Relationships
 
+Create the database with the .sql scripts ! 
 
-Configure your database connection in :  application/system/database.php
+Configure your database connection in :  application/config/database.php
+
+enjoy and let me know if it's helpful ! 
+
+Marc 
 
